@@ -6,15 +6,14 @@
   Randomized Information Coefficient
 }
 \description{
-  A more detailed description of what the package does. A length
-  of about one to five lines is recommended.
+  partial R port of Simone Romano's implementation of the Randomized Information Coefficient in Matlab.
+  see: https://github.com/ialuronico/RandomizedInformationCoefficient
 }
 \details{
-  This section should provide a more detailed overview of how to use the
-  package, including the most important functions.
+  So far, only the pairwise 
 }
 \author{
-Loïc Thibaut, Loic.Thibaut@gmail.com.
+Loïc Thibaut, <Loic.Thibaut@gmail.com>
 
 Maintainer: Loïc Thibaut <Loic.Thibaut@gmail.com>
 }
