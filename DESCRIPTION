@@ -1,0 +1,13 @@
+Package: RIC
+Type: Package
+Title: Randomized Information Coefficient
+Version: 1.0
+Date: 2018-07-20
+Author: Loïc Thibaut
+Maintainer: Loïc Thibaut <Loic.Thibaut@gmail.com>
+Description: R port of Simone Romano's implementation of the Randomized Information Coefficient in Matlab.    https://github.com/ialuronico/RandomizedInformationCoefficient
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.16)
+SystemRequirements: C++11
+LinkingTo: Rcpp
+Encoding: UTF-8
